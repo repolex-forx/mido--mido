@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/mido/mido/commit/7c1de5df224a5f0c602af8158c8fc25497ad351b",
       "git:hexsha": "7c1de5df224a5f0c602af8158c8fc25497ad351b",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T23:57:21.606040+00:00"
     },
     {
       "@id": "https://repolex.ai/r/mido/mido/commit/e8cfe3c50f80a548a089f9318d5408e1516516ba",
